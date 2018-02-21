@@ -1,7 +1,0 @@
-1. Read the file into R
-2. Determine Column / Data information
-3. Use R Studio to filter
-4. Using R Studio determine the range of the variables in each Particular Column
-5. Utilize the "Unique()" command to determine variable names
-6. Develop Ongoing questions
-7. Quick Analysis of distribution (barplot) of data 
